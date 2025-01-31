@@ -1,1 +1,1 @@
-github/workflows/ci-cd-pipeline.yml
+ci-cd-pipeline.yml
